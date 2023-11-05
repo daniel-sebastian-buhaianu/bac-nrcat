@@ -1,1 +1,2 @@
 # bac-nrcat
+Se citesc de la tastatura dooua siruri de caractere s si t, avand fiecare cel mult 250 de caractere, litere si cifre. Fiecare sir contine cel putin o cifra si cel mult 4 cifre. Scrie un program C++ care determina si afiseaza pe ecran un numar, format din toate cifrele continute de cele doua siruri, in ordinea aparitiei lor in sirul s si t. De exemplu, daca s="a1b2bd9" si t="7dgh6j" se va afisa 12976.
